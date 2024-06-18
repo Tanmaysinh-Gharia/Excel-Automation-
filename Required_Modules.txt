@@ -1,0 +1,11 @@
+MODULES:
+
+1. pip install openpyxl
+2. pip install collection
+3. pip install XlsxWriter
+4. pip install googletrans
+5. pip install pip
+6. pip install python-pptx
+7. pip install pywin32
+
+___to list out all packeges__-> pip list
